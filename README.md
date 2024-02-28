@@ -10,6 +10,8 @@ This is a solo project for [Scrimba's React course](https://scrimba.com/learn/le
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [How to Install](#how-to-install)
+  - [How to Run App](#how-to-run-app)
 - [Author](#author)
 
 ## Overview
@@ -44,6 +46,17 @@ Users should be able to:
 - Flexbox
 - [React](https://reactjs.org/) - JS library
 - [OTDB API](https://opentdb.com/api_config.php) - Trivia API
+
+
+### How to Install
+- Clone this repository to your local machine:
+``git clone https://github.com/your-username/your-repo.git``
+- Install dependencies 
+``npm install``
+
+### How to Run App
+``npm run start``
+Your frontend application should be running at http://localhost:3000.
 
 
 ## Author
